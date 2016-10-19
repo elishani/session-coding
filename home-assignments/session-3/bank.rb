@@ -13,7 +13,7 @@ action = gets.chomp
 
 amount = 20
 
-print_action(amount)
+print_action(action, amount)
 
 if action == "withdraw"
   balance -= amount
