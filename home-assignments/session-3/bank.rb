@@ -5,6 +5,7 @@ end
 
 balance = 1000
 
+# eli
 print "Please enter your personal name:  "
 name = gets.chomp.capitalize!
 
